@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisite
 Install [WAMP server](http://www.wampserver.com/en/) to prepare localhost on you machine. Follow the instructions and make sure [localhost](localhost) is up and running.
 
-## Installing
+### Installing
 1. Open **phpMyAdmin** and log into root account.
 2. Create **shazamgame** database for your bot.
 3. Go to **Import** and upload *shazamgame_db.sql* to initialize tables.
