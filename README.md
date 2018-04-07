@@ -27,11 +27,11 @@ define('SERVER_TABLE_SCORE', 'scoreboard');
 define('GAME_PATH', 'INDEX_PATH_ON_LOCALHOST');
 define('SONGS_FOLDER', 'SONGS_PATH_ON_LOCALHOST');
 ```
-5. Open [localhost](localhost) and see if your code has any error or not. Be aware that you can only compile your code in your localhost and for development and testing purposes you must
-1. Have a **https** domain
-2. Create a bot at [BotFather](https://telegram.me/BotFather)
-3. Edit config
-4. Set webhook to *index.php* file on your host.
+5. Open localhost and see if your code has any error or not. Be aware that you can only compile your code in your localhost and for development and testing purposes you must
+* Have a **https** domain
+* Create a bot at [BotFather](https://telegram.me/BotFather)
+* Edit config
+* Set webhook to *index.php* file on your host.
 
 ## Built With
 * PHP
